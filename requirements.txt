@@ -1,0 +1,20 @@
+argcomplete @ file:///private/tmp/python-argcomplete-20240123-4790-ehl68y/argcomplete-3.2.2
+blinker==1.8.2
+certifi @ file:///private/tmp/python-certifi-20231211-17721-m16vdm/certifi-2023.11.17
+cffi @ file:///private/tmp/cffi-20231211-48023-ij9e0o/cffi-1.16.0
+click==8.1.7
+cryptography @ file:///private/tmp/python-cryptography-20240125-5816-8q3y2z/cryptography-42.0.1
+docutils @ file:///private/tmp/docutils-20231211-44513-vgs5p/docutils-0.20.1
+Flask==3.0.3
+itsdangerous==2.2.0
+Jinja2 @ file:///private/tmp/python-jinja-20240110-4697-ywnxpd/Jinja2-3.1.3
+lxml @ file:///private/tmp/python-lxml-20240108-4777-41app7/lxml-5.1.0
+MarkupSafe @ file:///private/tmp/python-markupsafe-20240119-4662-n756x1/MarkupSafe-2.1.4
+packaging @ file:///private/tmp/python-packaging-20231211-14207-bavgf4/packaging-23.2
+pycparser @ file:///private/tmp/pycparser-20231211-28349-ej6eoa/pycparser-2.21
+pyparsing @ file:///private/tmp/python-pyparsing-20231211-59888-rof4um/pyparsing-3.1.1
+python-dateutil @ file:///private/tmp/python-dateutil-20231119-4791-1hzj0ck/python-dateutil-2.8.2
+pytz @ file:///private/tmp/python-pytz-20240201-4671-ssarb6/pytz-2024.1
+PyYAML @ file:///private/tmp/pyyaml-20231018-5353-1w5l4nf/PyYAML-6.0.1
+six==1.16.0
+Werkzeug==3.0.4
